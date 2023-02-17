@@ -328,6 +328,13 @@ a:hover {
     margin-right: -16px;
     float: right;
     z-index: 1;*/
+    left:1068px;
+    top: 37px;
+
+}
+
+.navbar .nav a{
+    text-decoration: none;
 }
 
 .nav>li {
@@ -377,6 +384,7 @@ a:hover {
         right: 20px;
         transform: translate(0, -50%);
         -webkit-transform: translateY(-50%);
+        display: flex;
     }
 
     .nav>li .dropdown-menu a,
@@ -1152,3 +1160,12 @@ li{
 /*.col-sm-6 h2{
     margin-top:-38px;
 }*/
+
+.navbar-header a{
+    left: 52px;
+    top: 37px;
+}
+
+.accueil{
+    margin-right: 18px;
+}

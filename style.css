@@ -1016,6 +1016,7 @@ h4 {
 
     .navbar-brand img {
         max-height: 40px;
+        margin-top: -62px;
         width: auto;
     }
 

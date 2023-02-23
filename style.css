@@ -723,8 +723,9 @@ p {
 }
 
 .social {
-    max-width: 400px;
-    margin: auto auto auto auto;
+    /*max-width: 400px;
+    margin: auto auto auto auto;*/
+    font-size: 48px;
 }
 
 /*CHANGEMENT*/
@@ -1156,9 +1157,13 @@ li{
     margin-bottom: 10px;
 }
 
-/*.col-sm-6 h2{
-    margin-top:-38px;
-}*/
+.col-sm-12 h1{
+    font-size: 42px; 
+}
+
+.col-sm-12 p{
+    font-size: 19px;
+}
 
 .navbar-header a{
     left: 52px;

@@ -1170,6 +1170,14 @@ li{
     top: 37px;
 }
 
+figcaption{
+    color: black;
+}
+
+.contraste{
+    color: #121212 !important;
+}
+
 /*.accueil{
     margin-right: 18px;
 }*/
